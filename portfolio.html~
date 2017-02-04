@@ -1,0 +1,93 @@
+<html>
+<title>Portfolio</title>
+
+<body bgcolor="black"></body>
+
+<header>
+
+<A HREF="https://instagram.com/reyareal30"><IMG SRC="button1.png" BORDER="0"
+HEIGHT="55" WIDTH="65"></A>
+
+<TD HEIGHT="40" WIDTH="70">
+<A HREF="https://www.facebook.com/reahcarmela.montesor"><IMG SRC="button2.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+</TD>
+
+<TD HEIGHT="40" WIDTH="70">
+<A HREF="https://twitter.com/EyaCarmela"><IMG SRC="button3.png" BORDER="0"
+HEIGHT="60" WIDTH="70"></A>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<A HREF="reah.html"><IMG SRC="home.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+
+<A HREF="personal.html"><IMG SRC="icon1.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+
+<A HREF="pictures.html"><IMG SRC="icon2.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+
+<A HREF="interests.html"><IMG SRC="icon3.png" BORDER="0"
+HEIGHT="62" WIDTH="65"></A>
+
+<A HREF="achievements.html"><IMG SRC="icon4.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+
+<A HREF="message.html"><IMG SRC="icon5.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+
+<A HREF="help.html"><IMG SRC="icon7.png" BORDER="0"
+HEIGHT="60" WIDTH="65"></A>
+
+
+</header>
+</table>
+
+<table>
+
+<TD BGCOLOR=#404040 WIDTH=1350 height=1550 VALIGN=TOP>
+
+<p>
+<b><Font color="#808080"><font face="Tw Cen MT"> <font size=4><br><br><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPORTFOLIO<br><br></font></b> 
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<b><Font color="black"><font size=5>PROJECT IN OOP</b><br><br>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOur OOP teacher told us to make a program about what we will be
+assigned. After lottery,<br>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp I picked currency converter.
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<center><img SRC="pambungad.png" BORDER="0"
+HEIGHT="400" WIDTH="500">
+
+&nbsp&nbsp&nbsp<img SRC="firstframe.png" BORDER="0"
+HEIGHT="400" WIDTH="500"><br><br>
+
+<img SRC="ffwithvalues.png" BORDER="0"
+HEIGHT="400" WIDTH="500">
+
+&nbsp&nbsp&nbsp<img SRC="thirdframe.png" BORDER="0"
+HEIGHT="400" WIDTH="500"><br>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<center><img SRC="tfwithvalues.png" BORDER="0"
+HEIGHT="400" WIDTH="500"></center>
+<br>
+
+
+
+</font>
+</p>
+</table>
+
+<TABLE border=0 cellspacing=0 cellpadding=0 width=1338>
+<TR>
+<td BGCOLOR=black WIDTH=1350 height=20 VALIGN=TOP>
+<center><FONT COLOR=white><Font face="Tw Cen MT"><p>Copyright © reah.com<center></p></FONT>
+</TD>
+</TR>
+</table>
+
+</html>
